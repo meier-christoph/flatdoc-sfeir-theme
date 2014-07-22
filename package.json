@@ -1,0 +1,22 @@
+{
+  "name": "flatdoc-sfeir-theme",
+  "description": "Custom flatdoc theme for sfeir documentation.",
+  "keywords": [
+    "documentation",
+    "markdown"
+  ],
+  "author": "Christoph Meier <meier.c@sfeir.lu>",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meier-christoph/flatdoc-sfeir-theme.git"
+  },
+  "homepage": "https://github.com/meier-christoph/flatdoc-sfeir-theme",
+  "devDependencies": {
+    "gulp": "3.8.x",
+    "gulp-connect": "2.0.x",
+    "gulp-rename": "1.2.x",
+    "gulp-stylus": "1.1.x",
+    "nib": "1.0.x"
+  }
+}
